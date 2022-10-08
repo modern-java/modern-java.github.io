@@ -3,6 +3,10 @@
 - [Spring Boot](https://github.com/spring-projects/spring-boot)
 > Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring   platform so that new and existing users can quickly get to the bits they need
 
+### ORM Frameworks
+- [Hibernate](https://hibernate.org/)
+> Hibernate ORM is an object–relational mapping tool for the Java programming language. It provides a framework for mapping an object-oriented domain model to a relational database
+
 ### Frontend Frameworks
 - [Vaadin](https://github.com/vaadin/vaadin)
 > This package contains all Vaadin web components (free and commercial)
