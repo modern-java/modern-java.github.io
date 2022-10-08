@@ -1,5 +1,17 @@
 ## Modern Java
 ### Tools, Libraries and Frameworks for Java[^Note]
+### Categories 
+- Web Frameworks
+- ORM Frameworks
+- Frontend Frameworks
+- Frameworks for Microservice
+- Metrics and Performance
+- Template Engines
+- Sockets
+- Computer Vision
+- Machine Learning
+
+
 ### Web Frameworks
 - [Spring Boot](https://github.com/spring-projects/spring-boot)
 > Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need
@@ -49,6 +61,10 @@
 ### Computer Vision
 - [JavaCV](https://github.com/bytedeco/javacv)
 > JavaCV uses wrappers from the JavaCPP Presets of commonly used libraries by researchers in the field of computer vision (OpenCV, FFmpeg, libdc1394, FlyCapture, Spinnaker, OpenKinect, librealsense, CL PS3 Eye Driver, videoInput, ARToolKitPlus, flandmark, Leptonica, and Tesseract) and provides utility classes to make their functionality easier to use on the Java platform, including Android
+
+### Machine Learning
+- [Tribuo](https://tribuo.org/)
+> Tribuo* is a machine learning library written in Java. It provides tools for classification, regression, clustering, model development, and more. It provides a unified interface to many popular third-party ML libraries like xgboost and liblinear. With interfaces to native code, Tribuo also makes it possible to deploy models trained by Python libraries (e.g. scikit-learn, and pytorch) in a Java program. Tribuo is licensed under Apache 2.0
 
 
 [^Note]: We are continually adding more stuff, Stay tuned :relaxed:
