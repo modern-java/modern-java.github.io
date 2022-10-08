@@ -11,6 +11,20 @@
 - [Vaadin](https://github.com/vaadin/vaadin)
 > This package contains all Vaadin web components (free and commercial)
 
+### Frameworks for Microservice
+- [Helidon](https://helidon.io/)
+> Helidon is a cloud-native, open‑source set of Java libraries for writing microservices that run on a fast web core powered by Netty
+
+### Metrics and Performance
+- [Micrometer](https://micrometer.io/)
+> Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics
+
+- [Prometheus](https://prometheus.io/)
+> Power your metrics and alerting with the leading open-source monitoring solution
+
+- [Grafana](https://grafana.com/)
+> Compose and scale observability with one or all pieces of the stack
+
 ### Template Engines
 - [Themeleaf](https://www.thymeleaf.org/)
 > Thymeleaf is a modern server-side Java template engine for both web and standalone environments
