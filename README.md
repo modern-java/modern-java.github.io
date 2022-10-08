@@ -1,7 +1,14 @@
-## Tools, Libraries and Frameworks 
+## Modern Java
+### Tools, Libraries and Frameworks for Java[^Note]
 ### Web Frameworks
 - [Spring Boot](https://github.com/spring-projects/spring-boot)
-> Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring   platform so that new and existing users can quickly get to the bits they need
+> Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need
+
+- [Dropwizard](https://www.dropwizard.io/)
+> Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services
+
+- [Play](https://www.playframework.com/)
+> The High Velocity Web Framework For Java and Scala
 
 ### ORM Frameworks
 - [Hibernate](https://hibernate.org/)
@@ -42,3 +49,6 @@
 ### Computer Vision
 - [JavaCV](https://github.com/bytedeco/javacv)
 > JavaCV uses wrappers from the JavaCPP Presets of commonly used libraries by researchers in the field of computer vision (OpenCV, FFmpeg, libdc1394, FlyCapture, Spinnaker, OpenKinect, librealsense, CL PS3 Eye Driver, videoInput, ARToolKitPlus, flandmark, Leptonica, and Tesseract) and provides utility classes to make their functionality easier to use on the Java platform, including Android
+
+
+[^Note]: We are continually adding more stuff, Stay tuned :relaxed:
