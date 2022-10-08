@@ -4,3 +4,5 @@ plugins:
 title: Modern Java
 description: Modern Development with Java
 show_downloads: false
+github:
+  another_url: https://github.com/manojsuthar123
