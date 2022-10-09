@@ -4,6 +4,7 @@
 - Web Frameworks
 - ORM Frameworks
 - Frontend Frameworks
+- Web Scraping
 - Frameworks for Microservice
 - Metrics and Performance
 - Template Engines
@@ -22,13 +23,32 @@
 - [Play](https://www.playframework.com/)
 > The High Velocity Web Framework For Java and Scala
 
+- [Spark](https://sparkjava.com/)
+> Spark - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort
+
+- [Sling](https://sling.apache.org/)
+> Apache Sling™ is a framework for RESTful web-applications based on an extensible content tree
+
+- [Wicket](https://wicket.apache.org/)
+> The Apache Wicket project announces the 9th major release of the open source Java web framework servicing websites and applications across the globe since 2004. Built on top of Java 11, this version of Wicket brings web development into the modern Java world, offering a fundamental tool to keep you code up to date with Java's evolution
+
 ### ORM Frameworks
 - [Hibernate](https://hibernate.org/)
 > Hibernate ORM is an object–relational mapping tool for the Java programming language. It provides a framework for mapping an object-oriented domain model to a relational database
 
+- [OpenJPA](https://openjpa.apache.org/)
+> Apache OpenJPA is a Java persistence project at The Apache Software Foundation that can be used as a stand-alone POJO persistence layer or integrated into any Java EE compliant container and many other lightweight frameworks, such as Tomcat and Spring
+
+- [EclipseLink](https://www.eclipse.org/eclipselink/)
+> Comprehensive open-source Java persistence solution addressing relational, XML, and database web services
+
 ### Frontend Frameworks
 - [Vaadin](https://github.com/vaadin/vaadin)
 > This package contains all Vaadin web components (free and commercial)
+
+### Web Scraping
+- [Jsoup](https://jsoup.org/)
+> jsoup is a Java library for working with real-world HTML. It provides a very convenient API for fetching URLs and extracting and manipulating data, using the best of HTML5 DOM methods and CSS selectors
 
 ### Frameworks for Microservice
 - [Helidon](https://helidon.io/)
