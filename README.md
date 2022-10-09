@@ -5,6 +5,7 @@
 - ORM Frameworks
 - Frontend Frameworks
 - Web Scraping
+- Messaging Queue
 - Frameworks for Microservice
 - Metrics and Performance
 - Template Engines
@@ -49,6 +50,19 @@
 ### Web Scraping
 - [Jsoup](https://jsoup.org/)
 > jsoup is a Java library for working with real-world HTML. It provides a very convenient API for fetching URLs and extracting and manipulating data, using the best of HTML5 DOM methods and CSS selectors
+
+### Messaging Queue
+- [JMS](https://www.oracle.com/java/technologies/java-message-service.html)
+> The Java Message Service (JMS) API is a messaging standard that allows application components based on the Java Platform Enterprise Edition (Java EE) to create, send, receive, and read messages. It enables distributed communication that is loosely coupled, reliable, and asynchronous
+
+- [Apache Kafka](https://kafka.apache.org/)
+> Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications
+
+- [RabbitMQ](https://www.rabbitmq.com/)
+> RabbitMQ is the most widely deployed open source message broker
+
+- [Redis](https://redis.io/)
+> The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker
 
 ### Frameworks for Microservice
 - [Helidon](https://helidon.io/)
