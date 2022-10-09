@@ -8,6 +8,7 @@
 - Messaging Queue
 - Frameworks for Microservice
 - Metrics and Performance
+- Profiling
 - Template Engines
 - Sockets
 - Computer Vision
@@ -77,6 +78,11 @@
 
 - [Grafana](https://grafana.com/)
 > Compose and scale observability with one or all pieces of the stack
+
+### Profiling
+- [VisualVM](https://visualvm.github.io/)
+> VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
+Designed for both development and production time use
 
 ### Template Engines
 - [Themeleaf](https://www.thymeleaf.org/)
