@@ -9,6 +9,7 @@
 - Frameworks for Microservice
 - Metrics and Performance
 - Profiling
+- Analytics
 - Concurrency
 - Scheduler
 - Template Engines
@@ -86,6 +87,10 @@
 - [VisualVM](https://visualvm.github.io/)
 > VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
 Designed for both development and production time use
+
+### Analytics
+- [Elasticsearch](https://github.com/elastic/elasticsearch)
+> Free and Open, Distributed, RESTful Search Engine
 
 ### Concurrency
 - [Project Loom](https://openjdk.org/projects/loom/)
