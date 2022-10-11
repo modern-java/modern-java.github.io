@@ -15,6 +15,7 @@
 - Sockets
 - Computer Vision
 - Machine Learning
+- Design Patterns
 
 
 ### Web Frameworks
@@ -118,6 +119,9 @@ Designed for both development and production time use
 ### Machine Learning
 - [Tribuo](https://tribuo.org/)
 > Tribuo* is a machine learning library written in Java. It provides tools for classification, regression, clustering, model development, and more. It provides a unified interface to many popular third-party ML libraries like xgboost and liblinear. With interfaces to native code, Tribuo also makes it possible to deploy models trained by Python libraries (e.g. scikit-learn, and pytorch) in a Java program. Tribuo is licensed under Apache 2.0
+
+### Design Patterns
+- [@iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 
 
 [^Note]: We are continually adding more stuff, Stay tuned :relaxed:
