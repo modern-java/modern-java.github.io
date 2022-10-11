@@ -90,6 +90,9 @@ Designed for both development and production time use
 - [Project Loom](https://openjdk.org/projects/loom/)
 > The goal of this Project is to explore and incubate Java VM features and APIs built on top of them for the implementation of lightweight user-mode threads (fibers), delimited continuations (of some form), and related features, such as explicit tail-call
 
+- [Disruptor](https://lmax-exchange.github.io/disruptor/)
+> LMAX aims to be the fastest trading platform in the world. Clearly, in order to achieve this we needed to do something special to achieve very low-latency and high-throughput with our Java platform. Performance testing showed that using queues to pass data between stages of the system was introducing latency, so we focused on optimising this area
+
 ### Scheduler
 - [Quartz](http://www.quartz-scheduler.org/)
 > Quartz is a richly featured, open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system
