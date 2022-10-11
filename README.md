@@ -9,7 +9,8 @@
 - Frameworks for Microservice
 - Metrics and Performance
 - Profiling
-- Analytics
+- Application Analytics
+- Data Analytics
 - Concurrency
 - Scheduler
 - Template Engines
@@ -88,9 +89,13 @@
 > VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
 Designed for both development and production time use
 
-### Analytics
+### Application Analytics
 - [Elasticsearch](https://github.com/elastic/elasticsearch)
 > Free and Open, Distributed, RESTful Search Engine
+
+### Data Analytics
+- [Apache Spark](https://spark.apache.org/)
+> Apache Spark is a unified analytics engine for large-scale data processing
 
 ### Concurrency
 - [Project Loom](https://openjdk.org/projects/loom/)
