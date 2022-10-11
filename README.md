@@ -9,6 +9,8 @@
 - Frameworks for Microservice
 - Metrics and Performance
 - Profiling
+- Concurrency
+- Scheduler
 - Template Engines
 - Sockets
 - Computer Vision
@@ -83,6 +85,14 @@
 - [VisualVM](https://visualvm.github.io/)
 > VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
 Designed for both development and production time use
+
+### Concurrency
+- [Project Loom](https://openjdk.org/projects/loom/)
+> The goal of this Project is to explore and incubate Java VM features and APIs built on top of them for the implementation of lightweight user-mode threads (fibers), delimited continuations (of some form), and related features, such as explicit tail-call
+
+### Scheduler
+- [Quartz](http://www.quartz-scheduler.org/)
+> Quartz is a richly featured, open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system
 
 ### Template Engines
 - [Themeleaf](https://www.thymeleaf.org/)
